@@ -1,10 +1,10 @@
 ### Oi! Meu nome é Saulo Oliveira, sou estudante de programação e tecnologia 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulowdev&show_icons=true&theme=dark)
-
-##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulowdev&layout=compact&theme=dark)](https://github.com/saulowdev/github-readme-stats)
+<a href="https://github.com/saulowdev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulowdev&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/saulowdev/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulowdev&layout=compact&theme=dark" />
+</a>
 
 ##
 
